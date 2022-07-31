@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/Web/static/js/main.19d13488.chunk.js",
+    "main.js.map": "/Web/static/js/main.19d13488.chunk.js.map",
+    "runtime-main.js": "/Web/static/js/runtime-main.92f5c590.js",
+    "runtime-main.js.map": "/Web/static/js/runtime-main.92f5c590.js.map",
+    "static/css/2.679831fc.chunk.css": "/Web/static/css/2.679831fc.chunk.css",
+    "static/js/2.7a979a08.chunk.js": "/Web/static/js/2.7a979a08.chunk.js",
+    "static/js/2.7a979a08.chunk.js.map": "/Web/static/js/2.7a979a08.chunk.js.map",
+    "index.html": "/Web/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/Web/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.7a979a08.chunk.js.LICENSE.txt": "/Web/static/js/2.7a979a08.chunk.js.LICENSE.txt",
+    "static/media/hi.00c0d626.png": "/Web/static/media/hi.00c0d626.png",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg": "/Web/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg",
+    "static/media/spaceman.5ec7fcfa.png": "/Web/static/media/spaceman.5ec7fcfa.png",
+    "static/media/u-said-it-v13-1167.949cee7e.mp3": "/Web/static/media/u-said-it-v13-1167.949cee7e.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92f5c590.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.7a979a08.chunk.js",
+    "static/js/main.19d13488.chunk.js"
+  ]
+}
